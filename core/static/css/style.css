@@ -1,0 +1,29 @@
+h1{color: goldenrod;
+}
+body {
+background-color:rgb(40, 116, 166);
+}
+.menu {
+background-color:rgb(231, 76, 60);
+width: 14%;
+height:100%;
+position: absolute;
+padding: 3%;
+}
+.main {
+width: 74%;
+margin-left: 20%;
+padding:3%;
+}
+.menu li {
+color:purple;
+font-size: 20px;
+width: 100%;
+padding-left: 6px;
+padding-right: 6px;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.menu a:hover {
+color: wheat;
+}
